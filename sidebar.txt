@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mcx:home|Door43 (mcx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mcx|d43-mcx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mcx/archive/master.zip|d43-mcx.zip]]
+
+**Recent Changes**
+{{changes>ns = mcx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mcx|Ethnologue data]]
+
